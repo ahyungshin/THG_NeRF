@@ -20,5 +20,8 @@ Please download wav2lip.pth from [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) 
   bash run.sh
 ```
 
+## Demo
+To be updated
+
 ## Acknowledgments
 This implementation is built on [HeadNeRF](https://github.com/CrisHY1995/headnerf). 
